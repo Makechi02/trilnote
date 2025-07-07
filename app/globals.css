@@ -12,10 +12,6 @@
     --color-sidebar-item-active: #094771;
 }
 
-* {
-    box-sizing: border-box;
-}
-
 .markdown-body {
     line-height: 1.6;
     color: #e5e7eb;
